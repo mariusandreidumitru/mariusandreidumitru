@@ -8,7 +8,6 @@ My name is Marius Andrei Dumitru, and I'm excited to share with you a little abo
 
 * 🌍  I'm based in Pitesti
 * ✉️  You can contact me at [dumitrumariusandrei37@gmail.com](mailto:dumitrumariusandrei37@gmail.com)
-* 🧠  I'm learning R,Python
 
 <a href="https://www.github.com/mariusandreidumitru" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mariusandreidumitru?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
