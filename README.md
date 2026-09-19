@@ -34,12 +34,6 @@ Here are the technologies and tools I work with to bring my projects to life:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
 
 ---
 
